@@ -1,1 +1,1 @@
-Langauges - Swift, Javascript, HTML/CSS
+Langauges - Swift, Typescript, HTML/CSS
